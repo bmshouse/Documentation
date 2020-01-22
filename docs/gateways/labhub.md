@@ -2,11 +2,13 @@
 
 [Jupyter notebooks](https://jupyter.org/) are an excellent resource for interactive development and data analysis using Python, R, and other languages. Jupyter notebooks can contain live code, equations, visualizations, and explanatory text which provide an excellent enviornment to use, learn, and teach interactive data analysis.
 
-CU Research Computing (CURC) operates a [JupyterHub server](https://jupyterhub.readthedocs.org/en/latest/) that enables users to run Jupyter notebooks on Amazon Web Services in support of research and education. This is currently a trail service restricted to a limited number of praticipants. 
+CU Research Computing (CURC) operates a [JupyterHub server](https://jupyterhub.readthedocs.org/en/latest/) that enables users to run Jupyter notebooks on Amazon Web Services in support of research and education. This is currently a trial service restricted to a limited number of praticipants. 
 
 ### Logging in to CURC LabHub
 
 CURC LabHub is available at [https://labhub.rc.colorado.edu](https://labhub.rc.colorado.edu). To log in, use your University of Colorado email address and your IdentiKey password.
+
+**Note: If you are being redirect to this page, you have not been granted access and will need to contact your course instructor to continue.**
 
 
 ### Logging out of CURC LabHub
